@@ -1,6 +1,6 @@
 # Victor CLAD
 
-The SDK CLAD is everything that will be exposed from Victor to Apps or SDK Users. For an explanation of SDK Users, and the general purpose of this directory, see [this page](../docs/SDK/Victor+SDK+Design).
+The SDK CLAD is everything that will be exposed from Victor to Apps or SDK Users. For an explanation of SDK Users, and the general purpose of this directory, see [this page](../docs/SDK/Victor+SDK+Design.md).
 
 ## Getting Started
 
